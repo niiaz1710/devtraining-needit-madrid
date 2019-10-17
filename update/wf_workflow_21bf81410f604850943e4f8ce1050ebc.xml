@@ -33,12 +33,12 @@
         <sys_created_by>niiaz.ibragimov</sys_created_by>
         <sys_created_on>2019-10-15 22:09:33</sys_created_on>
         <sys_id>1316ee450f644850943e4f8ce1050e93</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>35</sys_mod_count>
         <sys_updated_by>niiaz.ibragimov</sys_updated_by>
-        <sys_updated_on>2019-10-15 22:34:46</sys_updated_on>
+        <sys_updated_on>2019-10-16 04:44:04</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="NeedIt Approval">21bf81410f604850943e4f8ce1050ebc</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
